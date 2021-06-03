@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letany for S. Omers, part II. From the same hand, and to the same tune.</title>
+            <title>A letany for St. Omers. Part 2.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26078</idno><idno type="EEBO-CITATION">99890900</idno>
+  <idno type="VID">200703</idno>
+  <idno type="EEBO-PROQUEST">2240916472</idno>
+  
+            <idno type="OCLC"> 11871426</idno>
+            <idno type="STC">Wing L2533</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1872.a.1.[2]</idno>
+            <idno type="STC">ESTC R74</idno>
+            <idno type="PROQUEST">ocm99890900</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890900e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200703)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A7:2[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letany for S. Omers, part II. From the same hand, and to the same tune.</title>
+                  <title>A letany for St. Omers. Part 2.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Richard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "From all that like the triple crown,".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">English College (Saint-Omer, France) --  Poetry --  Early works to 1800.</term>
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:200703:1"/>
+            <pb facs="tcp:200703:1"/>
+            <head>A LETANY FOR S. OMERS, PART II.</head>
+            <opener>From the same Hand, and to the same Tune.</opener>
+            <lg>
+               <l>FRom all that like the Triple <hi>Crown,</hi>
+               </l>
+               <l>And worship <hi>Maries</hi> silken <hi>Gown:</hi>
+               </l>
+               <l>From ev'ry <hi>Corydon</hi> and <hi>Clown,</hi>
+               </l>
+               <l>Who now are (in) or (out) of <hi>Town.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all the Rascally <hi>Besetters,</hi>
+               </l>
+               <l>And all that like to go in <hi>Fetters:</hi>
+               </l>
+               <l>From all the FATE of <hi>Colemans Letters,</hi>
+               </l>
+               <l>For which he was before his <hi>Betters.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all who chuse to lye in <hi>Straw,</hi>
+               </l>
+               <l>And all against that <hi>Sweedish-Law,</hi>
+               </l>
+               <l>Which keeps the JESUITS so in <hi>Awe,</hi>
+               </l>
+               <l>That there they dare not set a <hi>Paw.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c</l>
+            </lg>
+            <lg>
+               <l>From <hi>Enemies</hi> to <hi>Grace</hi> and <hi>Glory,</hi>
+               </l>
+               <l>And from a <hi>profligated TORY:</hi>
+               </l>
+               <l>So charmed with <hi>Romance</hi> and <hi>Story,</hi>
+               </l>
+               <l>Not paying <hi>Homage</hi> to the <hi>Hoary.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From him that putteth <hi>Bad</hi> for <hi>Good,</hi>
+               </l>
+               <l>But plainly (now) is <hi>understood:</hi>
+               </l>
+               <l>Who waiteth for a <hi>Romish HOOD,</hi>
+               </l>
+               <l>And longs to go in <hi>Shoes</hi> of <hi>WOOD.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all the Vile <hi>Knights</hi> of <hi>the Post,</hi>
+               </l>
+               <l>That of their <hi>Villany</hi> do <hi>boast:</hi>
+               </l>
+               <l>From all that <hi>Protestants</hi> do <hi>roast,</hi>
+               </l>
+               <l>And also from an <hi>IRISH-HOST.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all that live to Drink and Dance,</l>
+               <l>Who <hi>Providence</hi> turn into Chance:</l>
+               <l>From all <hi>Compliers</hi> (now) with <hi>France,</hi>
+               </l>
+               <l>And from all <hi>Enemies</hi> to <hi>PRANCE.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all that worship <hi>Wafer-Gods,</hi>
+               </l>
+               <l>And (vilely) <hi>Nations</hi> set at <hi>Odds:</hi>
+               </l>
+               <l>Who are (at best) but earthen <hi>Clods,</hi>
+               </l>
+               <l>And merit more than <hi>Bridewel-Rods.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all that plow with <hi>Ox,</hi> and <hi>Ass,</hi>
+               </l>
+               <l>And from a Frenchified <hi>Lass:</hi>
+               </l>
+               <l>From all Adorers of the <hi>Mass,</hi>
+               </l>
+               <l>Who bow to <hi>Wood,</hi> and <hi>Stone,</hi> and <hi>Brass.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From charmed ones with <hi>Guiney-Pigs,</hi>
+               </l>
+               <l>And all that bowl without their <hi>Trigs:</hi>
+               </l>
+               <l>From all who like the <hi>Spanish Figs,</hi>
+               </l>
+               <l>And <hi>TORIES</hi> who abhor the <hi>WHIGS.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From every <hi>Monopolizer,</hi>
+               </l>
+               <l>And also from a <hi>Temporizer:</hi>
+               </l>
+               <l>From every fat <hi>Gormandizer,</hi>
+               </l>
+               <l>And from a sordid <hi>Stigmatizer.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all that set a COMPASS <hi>wide,</hi>
+               </l>
+               <l>Yet (only) study <hi>Wind</hi> and <hi>Tide:</hi>
+               </l>
+               <l>From all that play and cheat at <hi>Hide,</hi>
+               </l>
+               <l>And from a Frenchified <hi>Bride.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From <hi>Him</hi> who is so full of <hi>Ire,</hi>
+               </l>
+               <l>As if he had some savage <hi>Sire:</hi>
+               </l>
+               <l>Who could piss out the <hi>City Fire,</hi>
+               </l>
+               <l>So much as (then) <hi>He</hi> did <hi>desire.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all who daily lay a <hi>Snare</hi>
+               </l>
+               <l>For <hi>Innocents,</hi> but <hi>Nocents</hi> spare:</l>
+               <l>Who in their handy-work may <hi>share,</hi>
+               </l>
+               <l>And not appear a <hi>Match</hi> for <hi>CARE.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From every insipid <hi>Jack,</hi>
+               </l>
+               <l>That <hi>Brains</hi> as well as <hi>Bags</hi> doth <hi>lack:</hi>
+               </l>
+               <l>From <hi>Newgate-Midwife,</hi> and her <hi>BLACK,</hi>
+               </l>
+               <l>Who plot for <hi>Protestants</hi> a <hi>RACK.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From <hi>Millers</hi> chiefly wishing <hi>Grist,</hi>
+               </l>
+               <l>And <hi>Smiters</hi> with a wicked <hi>Fist:</hi>
+               </l>
+               <l>From all that PAPISTS (slily) <hi>list,</hi>
+               </l>
+               <l>And also from a <hi>Scotish-Mist.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all that's lately falsely made,</l>
+               <l>And may to others be a SHADE:</l>
+               <l>From all who drive the Devils <hi>Trade,</hi>
+               </l>
+               <l>And dare not call a <hi>Spade</hi> a <hi>SPADE.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From him that likes not <hi>Trout,</hi> or <hi>Tench,</hi>
+               </l>
+               <l>And from the tyrannizing <hi>French:</hi>
+               </l>
+               <l>From sending of another <hi>WENCH</hi>
+               </l>
+               <l>To be indulged <hi>Bed</hi> and <hi>Bench.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:200703:2"/>
+               <l>From all the TORIES at S. <hi>Ives,</hi>
+               </l>
+               <l>And also from all <hi>Romish Knives:</hi>
+               </l>
+               <l>From (ruled) <hi>Husbands</hi> (ruling) <hi>Wives,</hi>
+               </l>
+               <l>And from all such domestick <hi>Lives.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all infernal <hi>Newgate-Art,</hi>
+               </l>
+               <l>That's now in value like a FART:</l>
+               <l>Who may in time experience <hi>Smart,</hi>
+               </l>
+               <l>And ride to <hi>Tyburn</hi> in a <hi>CART.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all who deepest <hi>Oaths</hi> do think,</l>
+               <l>The greatest RHETORICK, and w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k</l>
+               <l>From all that like to <hi>Lead</hi> may sink,</l>
+               <l>Yet <hi>Healths</hi> to <hi>D.</hi> and <hi>Devil</hi> drink.</l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From every suborned PAIN,</l>
+               <l>Who thirsteth for to <hi>slay</hi> the SLAIN:</l>
+               <l>From all would go to Hell for <hi>Gain,</hi>
+               </l>
+               <l>And <hi>introduce</hi> a Foreign <hi>Train.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From FAUXES and their <hi>Lanthorns</hi> dark,</l>
+               <l>From <hi>Tyburn-Langhorn</hi>'s quondam <hi>Clark,</hi>
+               </l>
+               <l>Who roars, but sings not like a <hi>Lark,</hi>
+               </l>
+               <l>And meriteth his Masters <hi>Mark.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From <hi>PLUTO</hi> and from <hi>Popish NAT,</hi>
+               </l>
+               <l>Who eats in <hi>Lent</hi> no <hi>Lean</hi> nor <hi>Fat:</hi>
+               </l>
+               <l>From Sacramental-<hi>Roger</hi>'s <hi>Cat,</hi>
+               </l>
+               <l>And also from a <hi>Crape</hi> CU-RAT.</l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From ev'ry perjured <hi>Elector,</hi>
+               </l>
+               <l>And ev'ry Protestant <hi>Dissector:</hi>
+               </l>
+               <l>From evr'y daring, damming <hi>Hector,</hi>
+               </l>
+               <l>And also from a shitten <hi>RECTOR.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Ah! but there's yet another <hi>Tool,</hi>
+               </l>
+               <l>Who is (at once) both <hi>Knave</hi> and <hi>Fool:</hi>
+               </l>
+               <l>Let him go to S. <hi>OMERS School,</hi>
+               </l>
+               <l>If that he cannot go to <hi>Stool.</hi>
+               </l>
+               <l>Alas! he is a broken <hi>Reed,</hi>
+               </l>
+               <l>Yet longeth <hi>O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hers</hi> sor to <hi>bleed:</hi>
+               </l>
+               <l>But give me leave now to proceed,</l>
+               <l>And cast away this stinking <hi>Weed.</hi>
+               </l>
+               <l>From that <hi>L'STRANGE,</hi> that's a strange <hi>Lee,</hi>
+               </l>
+               <l>Who stingeth worse than any <hi>Bee:</hi>
+               </l>
+               <l>This <hi>Norfolk Dumplin</hi> once did <hi>flee,</hi>
+               </l>
+               <l>From <hi>Englands</hi> POWER to get <hi>free:</hi>
+               </l>
+               <l>When this arise, I clearly see,</l>
+               <l>Unto S. <hi>OMERS</hi> goeth HE,</l>
+               <l>In <hi>Rimmons house</hi> to <hi>bow</hi> his <hi>Knee,</hi>
+               </l>
+               <l>For libelling to that <hi>Degree:</hi>
+               </l>
+               <l>But this would be a <hi>Grief</hi> to <hi>Me,</hi>
+               </l>
+               <l>Who should go rather for his <hi>Fee</hi>
+               </l>
+               <l>To <hi>NEWGATE;</hi> thence to <hi>TYBURN-TREE.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From him that is the Devils <hi>Guest,</hi>
+               </l>
+               <l>Yet by a (ghostly) Father <hi>Blest:</hi>
+               </l>
+               <l>From <hi>Wakeman, Gascoin,</hi> and the rest,</l>
+               <l>Who long have been the Nations <hi>PEST.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From him that understands not <hi>Reason,</hi>
+               </l>
+               <l>But like a <hi>NABAL</hi> calls it <hi>Treason;</hi>
+               </l>
+               <l>And from a <hi>Dish</hi> that's out of Season.</l>
+               <l>From him who knows not <hi>Sea</hi> from <hi>Channel,</hi>
+               </l>
+               <l>But leaves a <hi>Saddle</hi> for a <hi>Pannel,</hi>
+               </l>
+               <l>And would have all <hi>interr'd</hi> in <hi>Flannel.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all that break upon the <hi>Wheel,</hi>
+               </l>
+               <l>(VVhen they themselves no <hi>Torture feel:</hi>)</l>
+               <l>From all that whip with <hi>Rods</hi> of <hi>STEEL,</hi>
+               </l>
+               <l>And with a ROMAN-CUP do reel.</l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all that <hi>limp,</hi> yet are not <hi>lame,</hi>
+               </l>
+               <l>And (solely) lay on <hi>others Blame:</hi>
+               </l>
+               <l>From every confessing <hi>DAME,</hi>
+               </l>
+               <l>And <hi>Others</hi> whom I dare not <hi>name.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From <hi>Him</hi> who makes a <hi>Galley-slave,</hi>
+               </l>
+               <l>And every out-landish <hi>Knave,</hi>
+               </l>
+               <l>That nothing more desires to <hi>have,</hi>
+               </l>
+               <l>Than live to dig anothers GRAVE.</l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From bloody <hi>Butchers,</hi> and dough <hi>Bakers,</hi>
+               </l>
+               <l>With all that are <hi>Foundation-shakers:</hi>
+               </l>
+               <l>From all S. OMERS <hi>Undertakers,</hi>
+               </l>
+               <l>And also from all <hi>Smithfield-Stakers.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From every informing <hi>Saul,</hi>
+               </l>
+               <l>That unto SATAN gives the <hi>Wall:</hi>
+               </l>
+               <l>To bring Dissenters into <hi>Thrall,</hi>
+               </l>
+               <l>Though into <hi>Hell</hi> himself doth <hi>fall.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From ev'ry <hi>Dog</hi> that will not <hi>fetch,</hi>
+               </l>
+               <l>And from a <hi>sanguinary</hi> KETCH,</l>
+               <l>VVho is so <hi>merciless</hi> a <hi>Wretch,</hi>
+               </l>
+               <l>VVhen he at <hi>Tyburn</hi> Persons <hi>stretch.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From him who sees no <hi>Wood</hi> for <hi>Trees,</hi>
+               </l>
+               <l>And yet is <hi>busie</hi> as the <hi>Bees:</hi>
+               </l>
+               <l>From him that's setled on his <hi>Lees,</hi>
+               </l>
+               <l>And speaketh not without his <hi>Fees.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all that cause domestick <hi>strife;</hi>
+               </l>
+               <l>A smoaking <hi>Chimney,</hi> stabbing <hi>Knife;</hi>
+               </l>
+               <l>A tired <hi>Horse,</hi> and scolding VVIFE,</l>
+               <l>That <hi>Death</hi> is wished and not <hi>Life.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From ev'ry (Military) <hi>Feast,</hi>
+               </l>
+               <l>VVhere <hi>ENOSH</hi> drinketh like a <hi>Beast,</hi>
+               </l>
+               <l>And where the <hi>Greatest</hi> is not <hi>Least.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all the <hi>Enemies</hi> to KNOX,</l>
+               <l>And also from <hi>Pandora</hi>'s BOX:</l>
+               <l>From <hi>Adders</hi> unto <hi>Plebis VOX,</hi>
+               </l>
+               <l>And from the <hi>Frenchified</hi> POX.</l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all the imitate <hi>Jane Shore,</hi>
+               </l>
+               <l>An (infamous though (Royal) WHORE,</l>
+               <l>And died in a <hi>Ditch</hi> therefore.</l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>From all <hi>Compliers</hi> with the <hi>Time,</hi>
+               </l>
+               <l>VVho judge not <hi>Sin</hi> to be a <hi>Crime:</hi>
+               </l>
+               <l>From all who boast themselves <hi>sublime,</hi>
+               </l>
+               <l>And will not buy this <hi>NON-CON-RIME.</hi>
+               </l>
+               <l>
+                  <hi>Libera nos,</hi> &amp;c.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <q>Sed male dum recitas incipit esse Tuum.</q>
+            <p>London: <hi>Prin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed for</hi> W. Richard. <hi>1682.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
